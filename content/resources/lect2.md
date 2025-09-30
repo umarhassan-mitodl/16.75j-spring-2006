@@ -5,6 +5,8 @@ description: This resource includes information on basic airline profit model, a
 file: /courses/16-75j-airline-management-spring-2006/10e44483827af2b4f9a4c1903c8fb342_lect2.pdf
 file_size: 627501
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

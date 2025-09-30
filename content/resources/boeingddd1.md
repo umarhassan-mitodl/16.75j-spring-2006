@@ -5,6 +5,8 @@ description: This resource includes information on the problem, its solution, bo
 file: /courses/16-75j-airline-management-spring-2006/2292410d1350352326a963e5b83c5e06_boeingddd1.pdf
 file_size: 672982
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This resource includes information on airline system level, airline
 file: /courses/16-75j-airline-management-spring-2006/bd0744c28e87b1f461d99708fb45a3f1_lect13a.pdf
 file_size: 141746
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

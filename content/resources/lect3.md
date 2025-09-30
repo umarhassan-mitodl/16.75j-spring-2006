@@ -6,6 +6,8 @@ description: This course contains information on objective cost category breakdo
 file: /courses/16-75j-airline-management-spring-2006/9bb71aec4e8bb7a97b7365dca8def444_lect3.pdf
 file_size: 346721
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

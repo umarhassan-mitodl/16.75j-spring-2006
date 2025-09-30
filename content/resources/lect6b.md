@@ -5,6 +5,8 @@ description: This resource includes information on challenges faced and the task
 file: /courses/16-75j-airline-management-spring-2006/f4cf28d87d1ac891f5fa4ebd5faa557d_lect6b.pdf
 file_size: 645084
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

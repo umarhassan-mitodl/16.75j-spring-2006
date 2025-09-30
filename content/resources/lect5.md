@@ -5,6 +5,8 @@ description: This resource includes information on schedule development process,
 file: /courses/16-75j-airline-management-spring-2006/a28aa07c64a983ce2cd475b9f7e32f16_lect5.pdf
 file_size: 145849
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This resource includes information on overbooking terminology and r
 file: /courses/16-75j-airline-management-spring-2006/412ade9637ece485295fed96ec8ba876_lect19.pdf
 file_size: 180027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

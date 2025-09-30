@@ -6,6 +6,8 @@ description: This resource includes information on fleet planning as part of str
 file: /courses/16-75j-airline-management-spring-2006/183208a508ea527ed30bea645e74ff3b_lect16.pdf
 file_size: 88069
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

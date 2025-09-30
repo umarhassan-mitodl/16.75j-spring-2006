@@ -31,6 +31,7 @@
     "website": "16-75j-airline-management-spring-2006"
   },
   "course_title": "Airline Management",
+  "hide_download": true,
   "course_description": "This course provides an overview of airline management decision processes with a focus on economic issues and their relationship to operations planning models and decision support tools. It emphasizes the application of economic models of demand, pricing, costs, and supply to airline markets and networks, and it examines industry practice and emerging methods for fleet planning, route network design, scheduling, pricing and revenue management.\n",
   "department_numbers": [
     "16",
@@ -42,6 +43,7 @@
     "content": "3ac47691-c32a-e0b1-7db7-818ba0d574a6",
     "website": "16-75j-airline-management-spring-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
