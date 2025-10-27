@@ -6,8 +6,6 @@ description: This resource includes information on summary of results from over 
 file: /courses/16-75j-airline-management-spring-2006/9998cb453ec6ac724bc938320809a07b_lect24.pdf
 file_size: 93741
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

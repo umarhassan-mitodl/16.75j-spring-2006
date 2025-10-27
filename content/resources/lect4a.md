@@ -5,8 +5,6 @@ description: This resource includes information on significance of load factor, 
 file: /courses/16-75j-airline-management-spring-2006/82d6996430e41e7036f827aadd8ea3f3_lect4a.pdf
 file_size: 218718
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

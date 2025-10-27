@@ -5,8 +5,6 @@ description: This resource includes information on need for network revenue mana
 file: /courses/16-75j-airline-management-spring-2006/021cc8536da3b1ab8d8dba2c90e3a486_lect20.pdf
 file_size: 220355
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
